@@ -1,7 +1,3 @@
-| GitHub Streak                       | GitHub Stats                            |
-| ----------------------------------- | ----------------------------------- |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220) | ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamspathan&hide=stars) |
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
@@ -15,3 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="googlecloud" alt="googlecloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>
 </div>
+
+
+
+| GitHub Streak                       | GitHub Stats                            |
+| ----------------------------------- | ----------------------------------- |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220) | ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamspathan&hide=stars) |
+
