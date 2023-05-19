@@ -1,10 +1,6 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220)
-
-[![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamspathan&hide=stars)](#)
-
-| Cat pics                            | Dog pics                            |
+| GitHub Streak                       | GitHub Stats                            |
 | ----------------------------------- | ----------------------------------- |
-| ![cat](https://example.com/cat.png) | ![dog](https://example.com/dog.png) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220) | ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamspathan&hide=stars) |
 
 
 
