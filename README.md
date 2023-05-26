@@ -15,4 +15,5 @@
 
 | GitHub Streak                       | GitHub Stats                            |
 | ----------------------------------- | ----------------------------------- |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220) | ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamspathan&hide=stars) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220) | ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamspathan&hide=stars&count_private=true&show_icons=true&hide_title=true) |
+
