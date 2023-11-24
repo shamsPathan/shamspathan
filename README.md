@@ -15,5 +15,5 @@
 
 | GitHub Streak                       | GitHub Stats                            |
 | ----------------------------------- | ----------------------------------- |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220) 
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220)|[![ShamsPathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsPathan&include_all_commits=true&theme=aura)](https://github.com/shamspathan/github-readme-stats) 
 
