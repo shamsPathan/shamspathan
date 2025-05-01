@@ -15,4 +15,5 @@
 
 | GitHub Streak                       
 | ----------------------------------- 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=shamspathan)](https://streak-stats.demolab.com?user=shamspathan)
+| ![Shams Pathan's GitHub Streak](https://streak-stats.demolab.com?user=shamspathan)
+
