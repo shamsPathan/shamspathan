@@ -15,4 +15,4 @@
 
 | GitHub Streak                       
 | ----------------------------------- 
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=shamspathan&currStreakNum=2FD3EB&fire=pink&sideLabels=013220)
+| [![GitHub Streak](https://streak-stats.demolab.com?user=shamspathan)](https://git.io/streak-stats)
