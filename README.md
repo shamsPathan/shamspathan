@@ -16,4 +16,5 @@
 | GitHub Streak                       
 | ----------------------------------- 
 | ![Shams Pathan's GitHub Streak](https://streak-stats.demolab.com?user=shamspathan)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamspathan&theme=algolia)
 
