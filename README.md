@@ -13,8 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
 </div>
 
-| GitHub Streak                       
-| ----------------------------------- 
-| ![Shams Pathan's GitHub Streak](https://streak-stats.demolab.com?user=shamspathan)
+![Shams Pathan's GitHub Streak](https://streak-stats.demolab.com?user=shamspathan)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamspathan&theme=algolia)
 
