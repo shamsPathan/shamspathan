@@ -30,6 +30,9 @@
   <a href="mailto:shamspathan@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/shamsPathan/shamsPathan/raw/main/public/resume_shams_pathan_developer.pdf">
+    <img src="https://img.shields.io/badge/Resume-%2314b8a6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
+  </a>
 </p>
 
 ---
@@ -334,7 +337,7 @@ Self-taught, documentation-dependent Software Engineer with **6+ years** bridgin
   <a href="mailto:shamspathan@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://shams.surjyopath.com/resume.pdf">
+  <a href="https://github.com/shamsPathan/shamsPathan/raw/main/public/resume_shams_pathan_developer.pdf">
     <img src="https://img.shields.io/badge/📄_Resume-%2314b8a6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
   </a>
 </p>
