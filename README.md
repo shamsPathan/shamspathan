@@ -237,15 +237,20 @@ Kali Linux
 # 📈 GitHub
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shamsPathan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsPathan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shamsPathan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shamsPathan&show_icons=true&count_private=true&theme=default&hide_border=true&border_radius=10" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsPathan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=14b8a6">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsPathan&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=10" alt="Top Languages">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&sideNums=14b8a6&count_private=true">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=default&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak">
+  </picture>
+</p>    
 ---
 
 # ✍ Recent Writing
