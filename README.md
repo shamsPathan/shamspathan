@@ -16,7 +16,6 @@
 
 </div>
 
----
 
 # 🌌 The Journey
 
@@ -44,7 +43,6 @@ Ethics is my compass.
 
 Curiosity is my fuel.
 
----
 
 # 🛠 What I Build
 
@@ -58,7 +56,6 @@ I enjoy building systems that are:
 
 Whether writing backend services, deploying cloud infrastructure, debugging distributed systems, or exploring security vulnerabilities, I enjoy understanding **how things work beneath the surface.**
 
----
 
 # ⚡ Areas I Work In
 
@@ -116,7 +113,6 @@ I believe security isn't another feature.
 
 It is part of engineering.
 
----
 
 # 📚 Current Learning
 
@@ -134,7 +130,6 @@ Currently exploring:
 - Artificial Intelligence
 - System Design
 
----
 
 # 🌱 Beyond Technology
 
@@ -158,7 +153,6 @@ Because every system is eventually built for people.
 
 Understanding people is part of understanding technology.
 
----
 
 # 🧭 Principles
 
@@ -176,7 +170,6 @@ Learning       over Certainty
 Simplicity     over Complexity
 ```
 
----
 
 # 🚀 Tech Stack
 
@@ -232,10 +225,7 @@ TryHackMe
 Kali Linux
 ```
 
----
-
 # 📈 GitHub
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shamsPathan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6">
@@ -251,7 +241,6 @@ Kali Linux
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=default&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak">
   </picture>
 </p>    
----
 
 # ✍ Recent Writing
 
@@ -271,7 +260,6 @@ More articles:
 
 ➡️ **https://shamspathan.medium.com**
 
----
 
 # 🌠 My Philosophy
 
@@ -289,7 +277,6 @@ Philosophy teaches humility.
 
 Together they remind us that every line of code ultimately serves another human being.
 
----
 
 <div align="center">
 
@@ -297,7 +284,6 @@ Together they remind us that every line of code ultimately serves another human 
 
 ## We are meaning-making beings."
 
----
 
 ### Building systems.
 
